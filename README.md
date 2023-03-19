@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Hassan
-- 👀 I’m interested in SOCIAL MEDIA MARKETING
-- 🌱 I’m currently learning SCM
-- 💞️ I’m looking to collaborate on SCM
-- 📫 How to reach me ...
+- 👀 I’m interested in Webdevelopement
+- 🌱 I’m currently learning React 
+- 📫 How to reach me ...linkedin.com/in/ahmad-hassan-khan1aa445208
 
 <!---
 Hassankh8/Hassankh8 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
