@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Hassan
 - 👀 I’m interested in Webdevelopement
-- 🌱 I’m currently learning React 
+- 🌱 I’m currently in University of Lincoln for MS Computer Science 
 - 📫 How to reach me ...linkedin.com/in/ahmad-hassan-khan1aa445208
 
 <!---
